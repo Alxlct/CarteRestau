@@ -1,4 +1,10 @@
 .imgSize {
-    width: 18rem;
-    height: 18rem;
+    border: solid 1px black;
+    width: 24.6rem;
+    height: 19rem;
+    text-align: center;
+    
+}
+body {
+    background-color: bisque;
 }
